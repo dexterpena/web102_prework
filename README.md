@@ -39,6 +39,10 @@ Here's a walkthrough of implemented features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
+Default screen capture for macOS and convert the .mov to a compressed .mp4 and then to a .gif using:
+https://freecompress.com/compress-mov
+and
+https://www.freeconvert.com/convert/mp4-to-gif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
