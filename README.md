@@ -51,6 +51,7 @@ https://www.freeconvert.com/convert/mp4-to-gif
 ## Notes
 
 Describe any challenges encountered while building the app.
+Some common challenges included forgetting to create an event handler to allow a function to run, as well as difficulties in solving the puzzles.
 
 ## License
 
